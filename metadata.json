@@ -2,6 +2,6 @@
   "name": "barnabe.eth",
   "website": "barnabemonnot.com",
   "description": "B is testing",
-  "logo": "https://github.com/barnabemonnot/eigenlayer-operator/blob/main/eth_png.png?raw=true",
+  "logo": "https://raw.githubusercontent.com/barnabemonnot/eigenlayer-operator/main/eth_png.png",
   "twitter": "https://twitter.com/barnabemonnot"
 }
